@@ -35,9 +35,9 @@ Alloy.Globals.forSaleFunction = function() {
 			}
 		};
 		dataitems.push(items);
-		$.listview_section.setItems(dataitems);
+		
 	};
-	//$.listview_section.setItems(dataitems);
+	$.listview_section.setItems(dataitems);
 
 };
 
