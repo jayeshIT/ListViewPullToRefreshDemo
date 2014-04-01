@@ -1,0 +1,14 @@
+
+".ClassifiedWin":{
+
+  backgroundImage  : 'background.png'
+},
+".classified_list_view":
+{
+	top : 21,
+	width : 300,
+	separatorColor : "transparent",
+	backgroundColor : "transparent",
+	separatorStyle : 1,
+	showVerticalScrollIndicator : false
+}

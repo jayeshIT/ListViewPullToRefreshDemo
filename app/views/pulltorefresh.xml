@@ -1,0 +1,11 @@
+<Alloy>
+	<PullView class="container">
+		<View  class="tableHeader" id="tableHeader">
+			<View class="border" id="border"/>
+			<ImageView class="imageArrow" id="imageArrow"/>
+			<Label class="labelStatus" id="labelStatus"/>
+			<Label class="labelLastUpdated" id="labelLastUpdated"/>
+			<ActivityIndicator class="actInd" id="actInd" />
+		</View>
+	</PullView>
+</Alloy>

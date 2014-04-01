@@ -1,0 +1,11 @@
+<Alloy>
+	<Window class="ClassifiedWin" id="ClassifiedWin">
+		<ListView class="classified_list_view" id="classified_list_view" defaultItemTemplate="item_template">
+			<Templates>
+				<Require src="itemTemplates/itemTemalate_classified"/>
+			</Templates>
+			<ListSection class="listview_section" id="listview_section"/>
+			<Require src="pulltorefresh" type="view" id="pulltorefresh"/>
+		</ListView>
+	</Window>
+</Alloy>
